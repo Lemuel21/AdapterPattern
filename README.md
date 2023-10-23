@@ -23,6 +23,7 @@ LaptopAdapter - An adapter for plugging a laptop into a standard power outlet. I
 RefrigeratorAdapter - An adapter for plugging a refrigerator into a standard power outlet. It adapts the Refrigerator to the PowerOutlet interface, translating plugIn() to startCooling().
 
 SmartphoneAdapter - An adapter for plugging a smartphone charger into a standard power outlet. It adapts the SmartphoneCharger to the PowerOutlet interface, translating plugIn() to chargePhone().
+![Blank diagram](https://github.com/Lemuel21/AdapterPattern/assets/142371919/6d210677-231c-4414-ba19-9acc03b893f4)
 
 
-![image](https://github.com/Lemuel21/AdapterPattern/assets/142371919/70e3b143-b703-4aab-895f-bda3ee7c1c09)
+
